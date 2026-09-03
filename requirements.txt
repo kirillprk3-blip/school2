@@ -1,0 +1,4 @@
+aiogram>=3.0.0
+vkbottle>=4.3.0
+aiosqlite
+python-dotenv
